@@ -74,3 +74,48 @@ I tend to easily adapt to changes, I understand that today's world is constantly
 ### Time-management
 
 Since I was a kid, I grew up with the idea that a first impression sticks on people's minds and that punctuality is like a business card, it introduces yourself. When I was working as estate agent, one of my main priority was to show up 10 minutes earlier than the appointment because I felt like being late would affect my credibility. I can strongly claim not to be a procrastinator, I like to plan in advance and organise my schedule, in order not to struggle with deadlines. Pixxa was a great experience to further expand time-management practices. Having a solid structure allowed me to organise my studies at university, while working to support myself, and at Makers.
+
+### Languages
+
+Italian (Native) - English (Fluent) - Spanish (Intermediate)
+
+## 📚 Education
+
+### Makers Academy (July 2023 - October 2023)
+
+- Object-Oriented Programming (OOP): Developed skills in creating small, reusable components (objects) that can be combined to create complex systems. This approach has made my code more organised and easier to maintain.
+- Agile Methodologies: Built expertise in prioritising iterative and incremental development. It involves close collaboration with stakeholders, continuous feedback, and adaptability to changing requirements.
+- Test-Driven Development (TDD): This software development approach boosted my confidence in writing codes, catching bugs, and making code maintenance to meet the specified requirements using frameworks such as Pytest, Jest, Playwright, and Cypress.
+- Pair Programming: This practice fostered knowledge sharing, collaboration, and code quality improvement. It has accelerated my growth as a developer and made problem-solving more enjoyable.
+- EQ Training on Feedback: It involves active listening, empathy, and constructive communication. Improved ability to understand others' perspectives, handle criticism gracefully, and provide feedback that is helpful rather than hurtful.
+
+### University of West London (Jan 2020 - Feb 2023)
+
+- BA (Hons) International Business Management
+- Grade: First Class Hons - 83/100
+- Modules:
+  - Accounting
+  - Professional Skills for Business and Finance
+  - Marketing
+  - Information Communication Technology (ICT)
+  - Human Resources Management (HR)
+  - Statistics & Probability
+  - Cross-Cultural Management
+  - Research Methods
+  - Business Ethics
+  - Business Economics
+  - Enterprise and Business Development
+  - Managing Small & Medium Sized Enterprises
+  - Managing Business Operations
+  - International Business
+  - International Trade, Finance and Investment
+  - Strategic Management
+  - Business Research Project (Dissertation)
+
+## 💛 Hobbies
+
+🌍 Travelling - I love exploring new places and cultures, definitely the best investment of my life.
+🗣️ Languages - Currently speaking Italian 🇮🇹, English 🇬🇧 and Spanish 🇪🇸 fluently. More to come...
+📺 Movies and TV Series - Breaking Bad is still holding first place ranking.
+🧑‍🍳 Cooking - Something to do in my spare time.
+📰 News - Reading about Tech, Business, and Finance.
