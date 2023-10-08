@@ -62,3 +62,13 @@ Although I can work alone, I definitely thrive when working in a team. During my
 ### Problem-solving
 
 I have always liked solving problems and riddles. However, my experience at Pixxa as shop manager significantly improved my critical thinking and my approach towards problems. When managing a shop, everyday was a different challenge. I developed a much deeper understanding on how to eveluate problems by finding the causes, analysing a range of possible solutions and eventually making a decision. The valuable knowledge gained at Pixxa ensured a much stronger journey during my business studies at University of West London and Makers, where problem-solving was key to succeed.
+
+### Active-listener
+
+Most of my working experiences were client based, thus I had to be able to deal with stakeholders at all levels. One key thing that I have learnt is that communication is really important, but when working with clients, being an active listener may be more beneficial. Therefore, I worked on this aspect and improved it throughout the years. As a result, I am now able to understand stakeholders' needs/requirements much faster and clearer, and deliver a much better service/product.
+
+### Flexible and Adaptable
+
+I tend to easily adapt to changes, I understand that today's world is constantly evolving and so are the businesses. At SoloAffitti Inc., I learnt how to quickly react to market changes and clients' needs in order to maintain a stable flow between demand and offer. Since then, I continously grew this essential skill and made it stronger. At Makers, being adaptable helped me to overcome the different challenges encountered throuhout the group projects, such as changes in product requirements.
+
+### Time-management
