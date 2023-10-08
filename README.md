@@ -114,8 +114,8 @@ Italian (Native) - English (Fluent) - Spanish (Intermediate)
 
 ## 💛 Hobbies
 
-🌍 Travelling - I love exploring new places and cultures, definitely the best investment of my life.
-🗣️ Languages - Currently speaking Italian 🇮🇹, English 🇬🇧 and Spanish 🇪🇸 fluently. More to come...
-📺 Movies and TV Series - Breaking Bad is still holding first place ranking.
-🧑‍🍳 Cooking - Something to do in my spare time.
-📰 News - Reading about Tech, Business, and Finance.
+- 🌍 Travelling - I love exploring new places and cultures, definitely the best investment of my life.
+- 🗣️ Languages - Currently speaking Italian 🇮🇹, English 🇬🇧 and Spanish 🇪🇸 fluently. More to come...
+- 📺 Movies and TV Series - Breaking Bad is still holding first place ranking.
+- 🧑‍🍳 Cooking - Something to do in my spare time.
+- 📰 News - Reading about Tech, Business, and Finance.
