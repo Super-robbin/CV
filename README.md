@@ -1,1 +1,3 @@
-# CV
+# CV - Roberto Quadraccia
+
+An energetic, dedicated, and highly focused individual with a solid understanding of software development, databases, and maintenance of complex and critical systems by completing a 16-week software developer bootcamp at MAKERS, London. Aspiring to start the next challenging career as a junior software developer within a tech-oriented environment to develop further skills and experiences. Creative mindset particularly around deployment models and emerging technologies with an aptitude for innovation. Immense knowledge of object-oriented concepts and programming languages, such as JavaScript, Python, HTML, CSS, and SQL.
