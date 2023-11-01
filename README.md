@@ -58,11 +58,11 @@ Directed and cultivated a diverse portfolio of 42 properties, overseeing all asp
 
 ### Teamwork and Collaboration
 
-Although I can work alone, I definitely thrive when working in a team. During my experiences as shop manager and receptionist, I focused on building strong relationship between team members. It is something that comes naturally to me, mainly because of my friendly personality. I tend to value collaboration, it generally leads to healthy working environment and improved performances. These skills came useful at Makers when working on group projects like MakersBnB and Acebook. I always made sure that everyone in the team was doing well and felt free to speak up.
+While I am capable of working independently, I truly excel when collaborating within a team. Throughout my roles as a shop manager and receptionist, I placed a strong emphasis on nurturing robust relationships among team members. This comes naturally to me, largely due to my friendly disposition. I place great importance on teamwork, as it consistently fosters a productive work environment and enhances overall performance. These abilities were especially valuable during my time at Makers, particularly when collaborating on group projects like MyPlace, Acebook and MakersBnB. I consistently ensured the well-being of all team members and encouraged open communication.
 
 ### Problem-solving
 
-I have always liked solving problems and riddles. However, my experience at Pixxa as shop manager significantly improved my critical thinking and my approach towards problems. When managing a shop, everyday was a different challenge. I developed a much deeper understanding on how to eveluate problems by finding the causes, analysing a range of possible solutions and eventually making a decision. The valuable knowledge gained at Pixxa ensured a much stronger journey during my business studies at University of West London and Makers, where problem-solving was key to succeed.
+Solving problems and unraveling puzzles has always been a passion of mine. However, my role as a shop manager at Pixxa significantly enhanced my critical thinking and problem-solving skills. Managing a shop presented me with unique challenges each day, prompting me to develop a much deeper understanding of problem assessment This involved analysing the causes, considering a diverse range of potential solutions, and ultimately making well-informed decisions. The invaluable insights I gained at Pixxa greatly enriched my academic journey, particularly during my business studies at the University of West London and my time at Makers, where problem-solving skills were indispensable for success.
 
 ### Active-listener
 
