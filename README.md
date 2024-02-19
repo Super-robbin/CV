@@ -72,6 +72,10 @@ Solving problems and puzzles has always been a passion of mine. However, my role
 
 My professional background primarily involves client-focused roles, which require me to engage with stakeholders across different organizational levels. One crucial lesson I've gleaned is the great importance of effective communication. However, when working with clients, I've realised that being an active listener can prove to be even more advantageous. Therefore, I worked on this aspect and improved it throughout the years.  As a result, I now possess the capability to swiftly and clearly comprehend the needs and requirements of stakeholders, leading to the delivery of significantly improved services and products.
 
+### Continuous learning
+
+While some might not see it as a strength, I genuinely believe that my growth mindset, my eagerness for learning and my curiosity about new things provide me with an extra advantage. I am always fully committed and dedicated to what I do. An example of this is my decision to go to university and start this journey in my 30s. It turned out to be a fantastic decision. I acquired knowledge about real-world business scenarios.
+
 ### Flexible and Adaptable
 
 I have a knack for easily adapting to changing circumstances, fully understanding the dynamic nature of today's world and business landscape. While working at SoloAffitti Inc., I honed my ability to swiftly respond to shifts in the market and the evolving needs of clients to ensure a seamless balance between supply and demand. Since then, I have consistently nurtured and strengthened this vital skill. During my time at Makers, adaptability played a crucial role in overcoming various challenges encountered in group projects, including adjustments in product requirements.
