@@ -1,6 +1,6 @@
 # CV - Roberto Quadraccia
 
-An energetic, dedicated, and highly focused individual with a solid understanding of software development, databases, and maintenance of complex and critical systems by completing a 16-week software developer bootcamp at MAKERS, London. Aspiring to start the next challenging career as a junior software developer within a tech-oriented environment to develop further skills and experiences. Creative mindset particularly around deployment models and emerging technologies with an aptitude for innovation. Immense knowledge of object-oriented concepts and programming languages, such as JavaScript, Python, HTML, CSS, and SQL.
+An energetic, dedicated, and highly focused individual with a solid understanding of software development, databases, and maintenance of complex and critical systems by completing a 16-week software developer bootcamp at MAKERS, London. Aspiring to start the next challenging career as a junior software developer within a tech-oriented environment to develop further skills and experiences. Creative mindset particularly around deployment models and emerging technologies with an aptitude for innovation. Knowledgeable in object-oriented concepts and programming languages, such as JavaScript, Python, HTML, CSS, and SQL.
 
 ---
 [Projects](#-projects) | [Experience](#-experience) | [Skills](#-skills) | [Education](#-education) | [Hobbies](#-hobbies)
@@ -28,7 +28,8 @@ An energetic, dedicated, and highly focused individual with a solid understandin
 **Millennium Gloucester Hotel, London** (April 2019 - May 2023)  
 _Front Desk Receptionist_
 
-Developed and standardised operational processes and procedures, encompassing operating systems, reservation management, and payments, to serve as comprehensive training tools for all incoming personnel. Provided thorough training to newly hired front desk agents, ensuring the establishment and maintenance of high-performance benchmarks.
+- Developed and standardised operational processes and procedures, encompassing operating systems, reservation management, and payments, to serve as comprehensive training tools for all incoming personnel. 
+- Provided thorough training to newly hired front desk agents, ensuring the establishment and maintenance of high-performance benchmarks.
 - Progressively elevated personal monthly enrolment targets from 240 to 480 between 2019 and 2023, culminating in Millennium Gloucester Hotel securing the top rank within the European Millennium Group in 2022.
 - Achieved Millennium quality standards compliance within the first three months of employment through personalised 1-on-1 coaching.
 - Spearheaded the design and implementation of an enhanced check-in process, resulting in a remarkable 20% reduction in queue waiting times during peak seasons.
@@ -37,7 +38,9 @@ Developed and standardised operational processes and procedures, encompassing op
 **Arrigoni's Bakery, Rome** (Mar 2017 - Sept 2018)  
 _Store Manager_
 
-Orchestrated all aspects of operations and administration while overseeing a team of four dedicated professionals. Revamped the customer experience by modernising store design, optimising layout, enhancing product display units, and improving labelling systems, resulting in streamlined queuing and payment processes. Elevated the store's profile and unique product offerings through the organisation of monthly events.
+- Orchestrated all aspects of operations and administration while overseeing a team of four dedicated professionals.
+- Revamped the customer experience by modernising store design, optimising layout, enhancing product display units, and improving labelling systems, resulting in streamlined queuing and payment processes.
+- Elevated the store's profile and unique product offerings through the organisation of monthly events.
 - Successfully expanded the product range to cater to the growing demand for vegetarian, vegan, and gluten-free offerings which led to a notable 10% revenue increase in 2017, followed by a remarkable 15% growth in 2018.
 - Reduced supplier expenditures by 8% in 2018 through meticulous research into alternative sourcing options and effective negotiations with suppliers.
 - Drove a consistent 20% year-on-year increase in demand for yeast-free products.
@@ -45,7 +48,11 @@ Orchestrated all aspects of operations and administration while overseeing a tea
 **Pixxa, London** (Aug 2015 - Jan 2017)  
 _Shop Manager_
 
-Led a team of five employees, fostering collaboration and productivity. Streamlined time-consuming administrative tasks, particularly in banking operations, order management, and supplier invoice processing. Conducted vigilant analysis of daily, weekly, and monthly sales trends, pinpointing opportunities for improvement. Upheld a superior standard of customer service by cultivating an inclusive, engaging, and enjoyable environment. Nurtured strong team relationships by organising regular social events, leading to a noticeable reduction in employee turnover.
+- Led a team of five employees, fostering collaboration and productivity.
+- Streamlined time-consuming administrative tasks, particularly in banking operations, order management, and supplier invoice processing.
+- Conducted vigilant analysis of daily, weekly, and monthly sales trends, pinpointing opportunities for improvement.
+- Upheld a superior standard of customer service by cultivating an inclusive, engaging, and enjoyable environment.
+- Nurtured strong team relationships by organising regular social events, leading to a noticeable reduction in employee turnover.
 - Implemented Xero accounting software, resulting in a remarkable 50% reduction in data entry time.
 - Collaborated with Too Good To Go, a startup, achieving a notable 35-40% reduction in daily food wastage.
 - Strategically shaped Pixxa's marketing approach, leveraging various social media platforms to expand the brand's presence across London.
@@ -56,7 +63,8 @@ Led a team of five employees, fostering collaboration and productivity. Streamli
 **SoloAffitti Inc., Terni, and Tecnocasa Inc., Terni** (Sep 2011 - Dec 2014)  
 _Real Estate Agent_
 
-Directed and cultivated a diverse portfolio of 42 properties, overseeing all aspects of management and operations. Enhanced client offerings with value-added services, such as utility provider contracts, creating comprehensive rental packages. This strategic approach generated an impressive 20% increase in revenue through commission earnings.
+- Directed and cultivated a diverse portfolio of 42 properties, overseeing all aspects of management and operations.
+- Enhanced client offerings with value-added services, such as utility provider contracts, creating comprehensive rental packages. This strategic approach generated an impressive 20% increase in revenue through commission earnings.
 - Spearheaded the expansion of SoloAffitti's network by devising and promoting various incentives, including free consultations and advertising campaigns.
 - Played a pivotal role in achieving the Italian Agency Award in 2013, securing a fifth place for consistently securing an average of 30 monthly tenancy agreements.
 
@@ -64,7 +72,7 @@ Directed and cultivated a diverse portfolio of 42 properties, overseeing all asp
 
 ### Teamwork and Collaboration
 
-While I am capable of working independently, I truly excel when collaborating within a team. Throughout my roles as a shop manager and receptionist, I placed a strong emphasis on nurturing robust relationships among team members. This comes naturally to me, largely due to my friendly disposition. Teamwork holds significant importance for me, as it consistently fosters a productive work environment and enhances overall performance. These abilities were especially valuable during my time at Makers, particularly when collaborating on group projects like MyPlace, Acebook and MakersBnB. I consistently ensured the well-being of all team members and encouraged open communication.
+Throughout my roles as a shop manager and receptionist, I placed a strong emphasis on building solid relationships among team members. These abilities were especially valuable during my time at Makers, particularly when collaborating on group projects. For instance, when working on Acebook project, there was a clear gap in skills and knowledge among team members. Therefore, I took the initiative to step into a leadership role. My aim was to create psychological safety where our peers felt free to ask for help or assistance with any task. I constantly checked the well-being of all team members and encouraged open communication, ensuring that everyone’s concerned was properly addressed, by scheduling daily stand-up meetings and retrospectives. As a result, we were able to develop a robust application and after going through a few mock-up rounds of presentation, we all presented equal parts of the project explaining specific aspects of it with confidence.
 
 ### Problem-solving
 
@@ -94,34 +102,17 @@ Italian (Native) - English (Fluent) - Spanish (Intermediate)
 
 ### Makers Academy (July 2023 - October 2023)
 
-- Object-Oriented Programming (OOP): Developed skills in creating small, reusable components (objects) that can be combined to create complex systems. This approach has made my code more organised and easier to maintain.
-- Agile Methodologies: Built expertise in prioritising iterative and incremental development. It involves close collaboration with stakeholders, continuous feedback, and adaptability to changing requirements.
-- Test-Driven Development (TDD): This software development approach boosted my confidence in writing codes, catching bugs, and making code maintenance to meet the specified requirements using frameworks such as Pytest, Jest, Playwright, and Cypress.
-- Pair Programming: This practice fostered knowledge sharing, collaboration, and code quality improvement. It has accelerated my growth as a developer and made problem-solving more enjoyable.
-- EQ Training on Feedback: It involves active listening, empathy, and constructive communication. Improved ability to understand others' perspectives, handle criticism gracefully, and provide feedback that is helpful rather than hurtful.
+Rated as one of the best coding bootcamps in Europe comprised of 16 weeks full-time self-led learning.
+- Developed and deployed a range of projects both individually and in groups using Python, Swift, Javascript (MERN stack), SQL, PostgreSQL, HTML, CSS, CI/CD, Docker.
+- Collaborated in an agile environment, managed projects using Trello boards, followed an iterative approach with daily stand-ups, pair programming, and weekly retrospectives.
+- Used tools like Excalidraw and Figma to create initial design mockups, which were then implemented in the projects.
+- Ensured high-quality code and minimised debugging time through test-driven development (TDD) approach using PyTest, Playwright, and Jest. Additionally, utilised Postman and TablePlus to verify the correct functioning of the back-end.
+- Employed Git as version control software and utilised GitHub as online version control platform throughout the projects. This approach was instrumental in maintaining a high standard of code quality and minimising the need for conflict resolution during code reviews. Achieved the latter by consistently committing changes and creating pull requests.
 
 ### University of West London (Jan 2020 - Feb 2023)
 
 - BA (Hons) International Business Management
 - Grade: First Class Hons - 83/100
-- Modules:
-  - Accounting
-  - Professional Skills for Business and Finance
-  - Marketing
-  - Information Communication Technology (ICT)
-  - Human Resources Management (HR)
-  - Statistics & Probability
-  - Cross-Cultural Management
-  - Research Methods
-  - Business Ethics
-  - Business Economics
-  - Enterprise and Business Development
-  - Managing Small & Medium Sized Enterprises
-  - Managing Business Operations
-  - International Business
-  - International Trade, Finance and Investment
-  - Strategic Management
-  - Business Research Project (Dissertation)
 
 ## 💛 Hobbies
 
